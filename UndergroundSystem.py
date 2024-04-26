@@ -2,7 +2,7 @@
 Design Underground System
 An underground railway system is keeping track of customer travel times between different stations. 
 They are using this data to calculate the average time it takes to travel from one station to another.
-一家地铁系统正在记录不同车站之间的乘客旅行时间，他们使用这些数据来计算从一个车站到另一个车站的平均旅行时间。
+這家地鐵系統正在記錄不同車站之間的乘客旅行時間，他們使用這些數據來計算從一個車站到另一個車站的平均旅行時間。
 '''
 class UndergroundSystem:
 
